@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|c:\\users\\hp\\onedrive - azerbaijan state technical university\\desktop\\ab106csharp\\pronia\\pronia\\dataacceslayer\\proniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\dataacceslayer\\proniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\pronia\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Migrations\\20240515095749_createSettingsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:Pronia\\Migrations\\20240515095749_createSettingsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Migrations\\20240515084906_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278CE35D-EFB8-4E3C-9A76-7F66128697CF}|Pronia\\Pronia.csproj|solutionrelative:Pronia\\Migrations\\20240515084906_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:59:44.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240515095749_createSettingsTable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Migrations\\20240515095749_createSettingsTable.cs",
+              "RelativeDocumentMoniker": "Pronia\\Migrations\\20240515095749_createSettingsTable.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Migrations\\20240515095749_createSettingsTable.cs",
+              "RelativeToolTip": "Pronia\\Migrations\\20240515095749_createSettingsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:57:50.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Pronia\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Pronia\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:56:42.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "Pronia\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Models\\Setting.cs",
+              "RelativeToolTip": "Pronia\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:56:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T09:17:38.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\ViewComponents\\ProductViewComponent.cs",
+              "RelativeDocumentMoniker": "Pronia\\ViewComponents\\ProductViewComponent.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\ViewComponents\\ProductViewComponent.cs",
+              "RelativeToolTip": "Pronia\\ViewComponents\\ProductViewComponent.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:07:06.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProniaContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\DataAccesLayer\\ProniaContext.cs",
+              "RelativeDocumentMoniker": "Pronia\\DataAccesLayer\\ProniaContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\DataAccesLayer\\ProniaContext.cs",
+              "RelativeToolTip": "Pronia\\DataAccesLayer\\ProniaContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:47:31.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAlwKIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T08:56:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pronia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:00:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240515084906_createDB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Migrations\\20240515084906_createDB.cs",
+              "RelativeDocumentMoniker": "Pronia\\Migrations\\20240515084906_createDB.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Migrations\\20240515084906_createDB.cs",
+              "RelativeToolTip": "Pronia\\Migrations\\20240515084906_createDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:49:07.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAGoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:28:54.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\AB106CSharp\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAADgv14AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:28:43.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
